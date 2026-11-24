@@ -51,3 +51,12 @@ log in one go. Run it on the VM with:
 
 ## Section 2: File Management and Permissions
 
+Team folders that keep their group ownership no matter who saves a file into them
+A working dropbox where everyone can submit, nobody can snoop, and only admins can read
+Sample files across five extensions (.txt, .conf, .csv, .log, .sh) seeded by three different users, ready for later phases to find and search
+A short experiment comparing hard links and symbolic links, so the difference sticks
+A permissions test report in your repo's docs/ folder, written from the perspective of different users trying (and sometimes failing) to access things
+All of this section's artefacts committed and pushed to your GitHub repo
+
+
+## Section: 
