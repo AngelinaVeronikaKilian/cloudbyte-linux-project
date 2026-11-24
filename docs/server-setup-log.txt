@@ -1,0 +1,17 @@
+# 24.11.2026 AVKilian
+# 
+created groups engineering, marketing, operations, admins
+added the twelve users, grouped by department, noting that Kate and Leo are in both operations and admins.
+The directory tree, with the group owner and mode of each folder.
+
+#Anything that tripped you up during the access tests, 
+#and how you resolved it. 
+#Real setup logs always have this section. 
+
+
+ #FAIL: /logs/reports (want group=admins mode=775 2775, got group=admins mode=755)
+ #PASS: /logs/reports (group=admins, mode=775)
+ #[vagrant@cloudbyte ~]$ sudo chmod 775 /logs/reports
+ #important not just /logs but /logs/report 
+ #with the reports to get permission right
+
