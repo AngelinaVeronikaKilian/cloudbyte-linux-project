@@ -18,4 +18,5 @@ The directory tree, with the group owner and mode of each folder.
 # Fail bei git remote set-url origin https://github.com/DEINBENUTZERNAME/clourbyte-linux-project.git
 # vorher stand da yourname und dann mit ChatGPT meinen A..V..K.. namen von GitHub eingefügt 
 # und GitHub Verbindung korrekt eingerichtet. 
-#wichtig ist auch der Punkt bei git add . 
+# wichtig ist auch der Punkt bei git add . 
+# 
